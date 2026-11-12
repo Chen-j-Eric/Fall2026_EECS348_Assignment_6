@@ -1,0 +1,18 @@
+Puzzle: Puzzle1
+Error: could not read puzzle.
+
+Puzzle: Puzzle2
+Error: could not read puzzle.
+
+Puzzle: Puzzle3
+Error: could not read puzzle.
+
+Puzzle: Puzzle4
+Error: could not read puzzle.
+
+Puzzle: Puzzle4
+Error: could not read puzzle.
+
+Puzzle: Puzzle5
+Error: could not read puzzle.
+
